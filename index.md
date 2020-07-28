@@ -4,7 +4,7 @@ I am passionate about data analytics because I have the opportunity to create st
 
 ---
 
-### Projects 
+## Projects 
 
 [Mission to Mars](https://github.com/tchhabs/Mission-to-Mars)
 <img src="images/Mars image.png?raw=true"/>
@@ -19,14 +19,16 @@ I am passionate about data analytics because I have the opportunity to create st
 
 ---
 
-### Education
-## Certificate Data Analytics, University of Kansas
+## Education
+### Certificate Data Analytics, University of Kansas
 A 24-week intensive program focused on gaining technical programming skills in Excel, VBA, Python, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning
 <br><br>
 
-## Bachelor of Sciencee, Biology from the University of Missouri - Columbia
+### Bachelor of Sciencee, Biology from the University of Missouri - Columbia
 
-### Technical Skills
+---
+
+## Technical Skills
 • VBA Scripting •Pivot Tables • Python • MySQL • Fundamental Statistics • Pandas • JavaScript• Matplotlib • API Interactions • HTML • Cascading Style Sheets (CSS) • JSON • MongoDB • NumPy
 
 ---
