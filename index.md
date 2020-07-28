@@ -1,4 +1,4 @@
-## Portfolio
+## About Me
 Flexible, organized, and goal-oriented Data Analyst with a background in troubleshooting investigations for an electronic health record company.  Within this role, I managed relationships with clinical staff, assisted testing workflows with the various platforms, trained many associates within the organization.  These experiences helped me to advance my skills in problem-solving, troubleshooting, communication, collaboration and time management. 
 I am passionate about data analytics because I have the opportunity to create stories using data and graphs to understand relationships between many variables. I earned my certificate in Data Analytics from a bootcamp at the University of Kansas, with skills in VBA scripting, Pandas, Python, and SQL.  This proficiency combined with my experience with problem solving and presenting solutions allows me to contribute to any team.
 
