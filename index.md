@@ -20,12 +20,13 @@ I am passionate about data analytics because I have the opportunity to create st
 ---
 
 ### Education
--[Certificate Data Analytics, University of Kansas]
-[A 24-week intensive program focused on gaining technical programming skills in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning]
--[Bachelor of Sciencee, Biology from the University of Missouri - Columbia]
+-Certificate Data Analytics, University of Kansas
+A 24-week intensive program focused on gaining technical programming skills in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning
+<br><br>
+-[Bachelor of Sciencee, Biology from the University of Missouri - Columbia
 
 ### Technical Skills
-[• VBA Scripting •Pivot Tables • Python • MySQL • Fundamental Statistics • Pandas • JavaScript• Matplotlib • API Interactions • HTML • Cascading Style Sheets (CSS) • JSON • MongoDB • NumPy]
+• VBA Scripting •Pivot Tables • Python • MySQL • Fundamental Statistics • Pandas • JavaScript• Matplotlib • API Interactions • HTML • Cascading Style Sheets (CSS) • JSON • MongoDB • NumPy
 
 ---
 
