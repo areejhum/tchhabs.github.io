@@ -1,21 +1,20 @@
 ## Portfolio
-[Flexible, organized, and goal-oriented Data Analyst with a background in troubleshooting investigations for an electronic health record company.  Within this role, I managed relationships with clinical staff, assisted testing workflows with the various platforms, trained many associates within the organization.  These experiences helped me to advance my skills in problem-solving, troubleshooting, communication, collaboration and time management. 
-
-I am passionate about data analytics because I have the opportunity to create stories using data and graphs to understand relationships between many variables. I earned my certificate in Data Analytics from a bootcamp at the University of Kansas, with skills in VBA scripting, Pandas, Python, and SQL.  This proficiency combined with my experience with problem solving and presenting solutions allows me to contribute to any team.]
+Flexible, organized, and goal-oriented Data Analyst with a background in troubleshooting investigations for an electronic health record company.  Within this role, I managed relationships with clinical staff, assisted testing workflows with the various platforms, trained many associates within the organization.  These experiences helped me to advance my skills in problem-solving, troubleshooting, communication, collaboration and time management. 
+I am passionate about data analytics because I have the opportunity to create stories using data and graphs to understand relationships between many variables. I earned my certificate in Data Analytics from a bootcamp at the University of Kansas, with skills in VBA scripting, Pandas, Python, and SQL.  This proficiency combined with my experience with problem solving and presenting solutions allows me to contribute to any team.
 ---
 
 ### Projects 
 
 [Mission to Mars](https://github.com/tchhabs/Mission-to-Mars)
-<img src="images/Mars image.jpg?raw=true"/>
+<img src="images/Mars image.png?raw=true"/>
 
 ---
 [What's the Weather Like?](https://github.com/tchhabs/What-is-the-Weather-Like)
-<img src="images/heatmap.jpg?raw=true"/>
+<img src="images/heatmap.png?raw=true"/>
 
 ---
 [Surfs Up](https://github.com/tchhabs/Surfs-Up)
-<img src="images/precipitation.jpg?raw=true"/>
+<img src="images/precipitation.png?raw=true"/>
 
 ---
 
