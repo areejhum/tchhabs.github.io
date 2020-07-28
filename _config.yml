@@ -2,9 +2,6 @@ title: Taniya Chhabra # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data analyst working primarily in Python
-  <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/taniya-chhabra-a8177689/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal

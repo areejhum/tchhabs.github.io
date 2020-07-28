@@ -1,6 +1,7 @@
 ## Portfolio
 Flexible, organized, and goal-oriented Data Analyst with a background in troubleshooting investigations for an electronic health record company.  Within this role, I managed relationships with clinical staff, assisted testing workflows with the various platforms, trained many associates within the organization.  These experiences helped me to advance my skills in problem-solving, troubleshooting, communication, collaboration and time management. 
 I am passionate about data analytics because I have the opportunity to create stories using data and graphs to understand relationships between many variables. I earned my certificate in Data Analytics from a bootcamp at the University of Kansas, with skills in VBA scripting, Pandas, Python, and SQL.  This proficiency combined with my experience with problem solving and presenting solutions allows me to contribute to any team.
+
 ---
 
 ### Projects 
@@ -15,6 +16,16 @@ I am passionate about data analytics because I have the opportunity to create st
 ---
 [Surfs Up](https://github.com/tchhabs/Surfs-Up)
 <img src="images/precipitation.png?raw=true"/>
+
+---
+
+### Education
+-[Certificate Data Analytics, University of Kansas]
+[A 24-week intensive program focused on gaining technical programming skills in Excel, VBA, Python, R, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning]
+-[Bachelor of Sciencee, Biology from the University of Missouri - Columbia]
+
+### Technical Skills
+[• VBA Scripting •Pivot Tables • Python • MySQL • Fundamental Statistics • Pandas • JavaScript• Matplotlib • API Interactions • HTML • Cascading Style Sheets (CSS) • JSON • MongoDB • NumPy]
 
 ---
 
