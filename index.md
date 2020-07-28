@@ -1,35 +1,34 @@
 ## Portfolio
+[Flexible, organized, and goal-oriented Data Analyst with a background in troubleshooting investigations for an electronic health record company.  Within this role, I managed relationships with clinical staff, assisted testing workflows with the various platforms, trained many associates within the organization.  These experiences helped me to advance my skills in problem-solving, troubleshooting, communication, collaboration and time management. 
+
+I am passionate about data analytics because I have the opportunity to create stories using data and graphs to understand relationships between many variables. I earned my certificate in Data Analytics from a bootcamp at the University of Kansas, with skills in VBA scripting, Pandas, Python, and SQL.  This proficiency combined with my experience with problem solving and presenting solutions allows me to contribute to any team.]
+---
+
+### Projects 
+
+[Mission to Mars](https://github.com/tchhabs/Mission-to-Mars)
+<img src="images/Mars image.jpg?raw=true"/>
+
+---
+[What's the Weather Like?](https://github.com/tchhabs/What-is-the-Weather-Like)
+<img src="images/heatmap.jpg?raw=true"/>
+
+---
+[Surfs Up](https://github.com/tchhabs/Surfs-Up)
+<img src="images/precipitation.jpg?raw=true"/>
 
 ---
 
-### Category Name 1 
+### Additonal Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [The Power of Plots](https://github.com/tchhabs/The-Power-of-Plots )
+- [Py Me Up Charlie](https://github.com/tchhabs/Py-Me-Up-Charlie)
+- [Movie Streaming](https://github.com/tchhabs/Movie-Streaming)
+- [Web Design Challenge](https://github.com/tchhabs/Web-Design-Challenge)
+- [Heros of Pymoli](https://github.com/tchhabs/Heroes-of-Pymoli)
 
 ---
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
