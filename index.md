@@ -6,16 +6,16 @@ I am passionate about data analytics because I have the opportunity to create st
 
 ## Projects 
 
-[Mission to Mars](https://github.com/tchhabs/Mission-to-Mars)
-<img src="images/Mars image.png?raw=true"/>
+[JavaScript and DOM Manipulation](https://github.com/tchhabs/javascript-challenge)
+<img src="images/UFO.png?raw=true"/>
 
 ---
 [What's the Weather Like?](https://github.com/tchhabs/What-is-the-Weather-Like)
 <img src="images/heatmap.png?raw=true"/>
 
 ---
-[Surfs Up](https://github.com/tchhabs/Surfs-Up)
-<img src="images/precipitation.png?raw=true"/>
+[Mission to Mars](https://github.com/tchhabs/Mission-to-Mars)
+<img src="images/Mars image.png?raw=true"/>
 
 ---
 
@@ -40,6 +40,7 @@ A 24-week intensive program focused on gaining technical programming skills in E
 - [Movie Streaming](https://github.com/tchhabs/Movie-Streaming)
 - [Web Design Challenge](https://github.com/tchhabs/Web-Design-Challenge)
 - [Heros of Pymoli](https://github.com/tchhabs/Heroes-of-Pymoli)
+- [Surfs Up](https://github.com/tchhabs/Surfs-Up)
 
 ---
 
