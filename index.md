@@ -24,7 +24,7 @@ I am passionate about data analytics because I have the opportunity to create st
 A 24-week intensive program focused on gaining technical programming skills in Excel, VBA, Python, JavaScript, SQL Databases, Tableau, Big Data, and Machine Learning
 <br><br>
 
-### Bachelor of Sciencee, Biology from the University of Missouri - Columbia
+### Bachelor of Science in Biological Sciences from the University of Missouri - Columbia
 
 ---
 
