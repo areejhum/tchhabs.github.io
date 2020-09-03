@@ -6,6 +6,11 @@ I am passionate about data analytics because I have the opportunity to create st
 
 ## Projects 
 
+[Visualizing Data with Leaflet](https://github.com/tchhabs/Visualizing-Data-with-Leaflet)
+<img src="images/leaflet.png?raw=true"/>
+
+---
+
 [JavaScript and DOM Manipulation](https://github.com/tchhabs/javascript-challenge)
 <img src="images/UFO.png?raw=true"/>
 
