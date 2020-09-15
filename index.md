@@ -19,8 +19,8 @@ I am passionate about data analytics because I have the opportunity to create st
 <img src="images/heatmap.png?raw=true"/>
 
 ---
-[Mission to Mars](https://github.com/tchhabs/Mission-to-Mars)
-<img src="images/Mars image.png?raw=true"/>
+[New York Citi Bike Analytics](https://public.tableau.com/profile/taniya.chhabra#!/vizhome/CitiBikes_15997134925960/NewYorkCitiBikes)
+<img src="images/Tableau.png?raw=true"/>
 
 ---
 
@@ -34,7 +34,11 @@ A 24-week intensive program focused on gaining technical programming skills in E
 ---
 
 ## Technical Skills
-• VBA Scripting •Pivot Tables • Python • MySQL • Fundamental Statistics • Pandas • JavaScript• Matplotlib • API Interactions • HTML • Cascading Style Sheets (CSS) • JSON • MongoDB • NumPy
+Languages: Python • SQL • VBA Scripting • JavaScript 
+Data Visualizations: Tableau • D3.js • Plot.ly • Matplotlib • HTML • CSS • Dashboarding • Geomapping with Leaflet.js
+Excel: VBA • Macros • Pivot Tables •Index/Match VLOOKUP
+SQL: PostgreSQL • MongoDB
+Python: Pandas • NumPy • SciPy • SQLAlchemy • Jupyter Notebook
 
 ---
 
