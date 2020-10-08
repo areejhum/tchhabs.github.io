@@ -6,13 +6,13 @@ I am passionate about data analytics because I have the opportunity to create st
 
 ## Projects 
 
-[Visualizing Data with Leaflet](https://github.com/tchhabs/Visualizing-Data-with-Leaflet)
-<img src="images/leaflet.png?raw=true"/>
+[Grape Expectations](https://bit.ly/2GLy95z)
+<img src="images/grape.png?raw=true"/>
 
 ---
 
-[JavaScript and DOM Manipulation](https://github.com/tchhabs/javascript-challenge)
-<img src="images/UFO.png?raw=true"/>
+[Visualizing Data with Leaflet](https://github.com/tchhabs/Visualizing-Data-with-Leaflet)
+<img src="images/leaflet.png?raw=true"/>
 
 ---
 [What's the Weather Like?](https://github.com/tchhabs/What-is-the-Weather-Like)
@@ -50,7 +50,8 @@ Python: Pandas • NumPy • SciPy • SQLAlchemy • Jupyter Notebook
 - [Web Design Challenge](https://github.com/tchhabs/Web-Design-Challenge)
 - [Heros of Pymoli](https://github.com/tchhabs/Heroes-of-Pymoli)
 - [Surfs Up](https://github.com/tchhabs/Surfs-Up)
-
+- [Visualizing Data with Leaflet](https://github.com/tchhabs/Visualizing-Data-with-Leaflet)
+- [JavaScript and DOM Manipulation](https://github.com/tchhabs/JavaScript-and-DOM-Manipulation)
 ---
 
 
