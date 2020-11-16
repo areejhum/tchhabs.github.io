@@ -51,7 +51,7 @@ Python: Pandas • NumPy • SciPy • SQLAlchemy • Jupyter Notebook
 - [Heros of Pymoli](https://github.com/tchhabs/Heroes-of-Pymoli)
 - [Surfs Up](https://github.com/tchhabs/Surfs-Up)
 - [Visualizing Data with Leaflet](https://github.com/tchhabs/Visualizing-Data-with-Leaflet)
-- [JavaScript and DOM Manipulation](https://github.com/tchhabs/JavaScript-and-DOM-Manipulation)
+
 ---
 
 
